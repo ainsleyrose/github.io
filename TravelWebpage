@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        
+        <style>
+           
+            body{
+                background-color: rgb(247, 205, 247);
+            }
+            
+            #title{
+                color: white;
+            }
+            
+            p {
+                color: rgb(150, 68, 150);
+            }
+            
+            ol {
+                color:rgb(150, 68, 150);
+            }
+            
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1 id="title">*** Why you should visit Japan ***</h1>
+        
+       <p> 
+            Japan is full of <strong>interesting</strong> things. If you ask me what I like the most in Japan is its scenery <em>(especially its sakura trees) </em>and <strong>anime</strong>.
+        </p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg/2560px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg" width="400" id="a picture of the famous Mt. Fuji of Japan">
+        
+        <p> The picture shown above is <em>Mt. Fuji</em>. A famous volcano located in Japan shown during spring time.</p>
+       
+        
+    
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/COVID-19_outbreak_Japan_per_capita_cases_map.svg" width="250" id="a picture of Japan's island/country">
+        <p> Japan is made up of <em>hundreds</em> of islands. These islands are all seperated and grouped into 4:</p>
+        
+        <ol>
+            <li>Hokkaido
+            <li>Honshu
+            <li>Shikoku
+            <li>Kyushu
+        </ol>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Prune_sur_paravent_par_Kan%C5%8D_Sanraku.jpg/640px-Prune_sur_paravent_par_Kan%C5%8D_Sanraku.jpg" width="450" id="Japan's 4 seasons in a historical painting">
+        
+        <p> Japan also consists of 4 seasons just like in Canada - spring, summer, fall, winter. Which is very beneficial and quite exiting if you ask me!<br>
+        </p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SAKURA_2017_Sugimura_park_Hashimoto.jpg/2560px-SAKURA_2017_Sugimura_park_Hashimoto.jpg" width="400" id="beautiful picture of sakura trees in Japan">
+        
+        <p>
+        One of the most interesting events that happen in Japan during a short period of time during their spring season that occurs during mid-March to early-May are their <strong> sakura trees </strong> just like the picture shown above!
+        </p>
+        
+        <p> There are a lot of things I still want to talk about on why you should defenitely visit Japan but I hope I convinced you a little!</p>
+        
+    </body>
+</html>
