@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+    
+    <style>
+        body{
+            background-color: rgb(134, 178, 179);
+        }
+        
+        h1{
+            color: white;
+            font-family: Brush Script MT;
+        }
+        
+        h2{
+            color: white;
+        }
+        
+        h3{
+            color: rgb(92, 117, 148);
+        }
+        
+        .TOC{
+            color: rgb(110, 100, 100);
+        }
+        
+        p{
+            color: pink;
+            font-family: italic;
+        }
+        
+        h6{
+            font-family: "Helvetica", sans-serif;
+            color: white;
+            background-color: grey;
+        }
+        
+    </style>
+        
+        <h1>--* Ainsley Rose's Blog *--</h1>
+
+        <h3>Contents</h3>
+        <ol class="TOC">
+            <li><a href="#1">Sunday, Febuary 13, 2021</a><em>(My very first post!)</em></li>
+            <li><a href="#2">Monday, Febuary 14, 2021</a><em>(Valentines Day)</em></li>
+            <li><a href="#3">Day, Date </a><em>(title)</em></li>
+        </ol>
+        
+        <h2 id="1">First post</h2>
+        <h6>Febuary 13, 2021</h6>
+        
+        <p>
+            I spent lots of time with family today. I actually had to re-write this entry because it got deleted and I don't really know how to reverse this through Khan Academy.<br>
+            <br>
+            Anyways, yesterday, I spent lots of time with family, especially with my dad since I don't live with him. He just bought me my Christmas gift actually. Christmas was like 2 months ago. I still appriciate it though. One of the best weekend probably. <br>
+            <br>
+            I have school tomorrow and I don't really know what to expect. It's Valentines Day. I'm not in any kind of romantic relationship and I don't plan to be in one soon. I have dreams and responsibilities to pursue!
+        </p>
+        
+         <h2 id="2">Valentines Day</h2>
+        <h6>Febuary 14, 2021</h6>
+        
+        <p>
+            Currently at my CS class. I don't really know what to expect today. I just can't wait to finish this day and play games at home. I haven't been playing games lately. Especially with my (online) friends. <br>
+            <br>
+            CS class could be lowkey fun though. Even if were just doing modules. The teacher's cool. He's really fond of rubiks cubes. I remember when I was trying to learn the 6 by 6 cube, I wouldn't go to sleep until I could figure or memorize an algorithim. I took me atleast 3 months to memorize and to solve the cube without any help. I'm not as good as the one who solve it fast but I know how to. <br>
+            <br>
+            Anyways, If I come back to this I might do another entry and explain how this day went. <br>
+            <br>
+            :)
+        </p>
+        
+         <h2 id="3">(title here)</h2>
+        <h6>(date here)</h6>
+        
+        <p>
+            (entry here)
+        </p>
+        
+        
+    </body>
+</html>
