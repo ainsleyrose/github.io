@@ -1,0 +1,204 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+            h1{
+                color: yellow;
+            }
+        
+            body{
+                background-color: rgb(245, 168, 112);
+            }
+            
+            .food {
+                color: white;
+            }
+            
+            h3 {
+                color: yellow;
+            }
+            
+        </style>
+    </head>
+    <body>
+       
+        <h1>Ainsley Rosé's <em>simple</em> Recipe Book</h1>
+        
+        <p>
+            Here are some easy decent recipe's you can try at home provided with best explanations! <br>
+            <br>
+            <em>For more information on the recepies, links are presented at the end of the page.</em>
+        </p>
+        
+        <h2><em>Contents:</em></h2>
+        
+        <p>
+            <em>You can click on the "Recipe" to take you directly on the specific intruction:</em>
+        </p>
+        
+<!-- add internal links here -->
+
+        <ol>
+            <li><a href="#1st">Recipe #1 - Quesedilla</a></li>
+            <li><a href="#2nd"> Recipe #2 - French Toast</a></li>
+            <li><a href="#3rd"> Recipe #3 - Easy Salad</a></li>
+        </ol>
+        
+        <h2 id="1st" class="food">Recipe #1 - Quesedilla</h2>
+        
+        <ul>
+            <li>Time: 3-5 minutes</li>
+            <li>Serves: 1 person</li>
+        </ul>
+        
+       <table>
+            <thead>
+                <tr>
+                    <th>Ingridients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pita</td>
+                    <td>2 pcs.</td>
+                </tr>
+                <tr>
+                    <td>Packed Sandwhich Cheese</td>
+                    <td>2 pcs.</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>1 tsp.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h3><em>-- Instructions:</em></h3>
+        
+        <p><strong>Step 1:</strong> Turn the pan on and pre-heat.
+</p>
+ <p><strong>Step 2:</strong> Add butter and let it melt.
+</p>
+ <p><strong>Step 3:</strong> Add one piece of pita then add cheese on top and cover with 2nd layer of pita.
+</p>
+ <p><strong>Step 4:</strong> Turn the heated pita around after 25 seconds each side 2 times.
+</p>
+
+        <h2 id="2nd" class="food">Recipe #2 - French Toast</h2>
+        
+         <ul>
+            <li>Time: 8-10 minutes</li>
+            <li>Serves: 1 person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingridients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Brown Bread</td>
+                    <td>2 pcs.</td>
+                </tr>
+                <tr>
+                    <td>Packed Sandwhich Cheese</td>
+                    <td>2 pcs.</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>2 tsp.</td>
+                </tr>
+                <tr>
+                    <td>Beated Egg</td>
+                    <td>3 pcs.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h3><em>-- Instructions:</em></h3>
+        
+        <p><strong>Step 1:</strong> Preheat pan and add butter.
+</p>
+<p><strong>Step 2:</strong> Add beated egg in bowl and soak brown bread until fully soaked.
+</p>
+<p><strong>Step 3:</strong> Add cheese in between two bread.
+</p>
+<p><strong>Step 4:</strong> Add bread in pan and turn fried bread around every 1 minute two times.
+</p>
+        
+        <h2 id="3rd" class="food">Recipe #3 - Easy Salad</h2>
+        
+        <ul>
+            <li>Time: 10-15 minutes</li>
+            <li>Serves: 1-2 people</li>
+        </ul>
+        
+       <table>
+            <thead>
+                <tr>
+                    <th>Ingridients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Olive Oil</td>
+                    <td>2 pcs.</td>
+                </tr>
+                <tr>
+                    <td>Chopped Lettuce</td>
+                    <td>2 cups</td>
+                </tr>
+                <tr>
+                    <td>Corn</td>
+                    <td>3/4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Red Diced Onion</td>
+                    <td>1/4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Shredded Cheddar Cheese</td>
+                    <td>1/2 cup</td>
+                </tr>
+                 <tr>
+                    <td>Ranch Dressing</td>
+                    <td>1/4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Diced Tomato</td>
+                    <td>1 pc.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h3><em>-- Instructions:</em></h3>
+        
+      <p><strong>Step 1:</strong> Add chopped lettuce, corn, diced onion, cheese, and tomato in bowl. Stir & mix.
+</p>
+<p><strong>Step 2:</strong> Add Olive oil. Stir & mix.
+</p>
+<p><strong>Step 3:</strong> Add Ranch Dressing. Stir & mix.
+</p>
+
+<p>
+    --- --- --- --- ---<br>
+    <strong>
+        Happy Eating!
+    </strong> <br>
+    --- --- --- --- --- 
+    
+</p>
+        
+    <p><em>Source: <a href="https://www.recipetineats.com/quesadilla/">Quesedilla</a></em></p>
+    <p><em>Source: <a href="https://www.mccormick.com/recipes/breakfast-brunch/quick-and-easy-french-toast">French Toast</a></em></p>
+<p><em>Source: <a href="https://www.loveandlemons.com/salad-recipes/">Salad</a></em></p>
+    
+    </body>
+</html>
