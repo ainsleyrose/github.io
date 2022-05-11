@@ -1,12 +1,58 @@
-## Welcome to GitHub Pages
+## ICS3U 2022 Portfolio Website | Ainsley Rose Barut
+You will see what I have accomplished throughout the semester of Grade 11 Computer Science 2022!
 
-You can use the [editor on GitHub](https://github.com/ainsleyrose/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_(click the titles in order to preview the project in a different website)_
 
-### Markdown
+### [Travel Webpage](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+This was one of the project that got me started in my coding challenges. I learned a lot of new properties in this introduction project that I can apply as I go on my challenge. 
+```
+
+### [Recipe Book](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index2.html)
+
+```markdown
+...
+```
+
+### [Blog](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index3.html)
+
+```markdown
+...
+```
+
+### [Event Invite](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index4.html)
+
+```markdown
+...
+```
+
+### [What's For Dinner?](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index5.javascript)
+
+```markdown
+Code is only presented in this project.
+```
+
+### [Algorithm Exploration - Pyraminx Record](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/tree/Algorithms-Exploration-HTML-projs#readme)
+
+```markdown
+...
+```
+
+### [Live Creative Codin Challenge - group] ()
+``` markdown
+..
+```
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
