@@ -1,20 +1,43 @@
 ## ICS3U 2022 Portfolio Website | Ainsley Rose Barut
 You will see what I have accomplished throughout the semester of Grade 11 Computer Science 2022!
 
+### My Github Coding bases: https://github.com/ainsleyrose/github.io
+
 Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
 
 _(click the titles in order to preview the project in a different website)_
 
+1. Travel Webpage
+2. Recipe Book
+3. Blog
+4. Event Invite
+5. What's For Dinner
+6. Algorithm Exploration - Pyraminx Record
+7. Live Creative Codin Challenge - group
+
 ### [Travel Webpage](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index.html)
 
 ```markdown
-This was one of the project that got me started in my coding challenges. I learned a lot of new properties in this introduction project that I can apply as I go on my challenge. 
+This was one of the project that got me started in my coding challenges. 
+I learned a lot of new properties in this introduction project that I can apply as I go on my new provided challenges. 
+
+Aspects that made a big impact in my learning process are adding different text sizes, adding the `<head></head>` function 
+to add colours and fonts, and `<body></body>` function to add texts and `<src="">` for adding images from available sources 
+to also changing their sizes.
+
+Difficulty Level: 1/10
 ```
 
 ### [Recipe Book](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index2.html)
 
 ```markdown
-...
+Same coding properties/functions were used from the last project; such as `<head></head>`, `<style></style>`, `<body></body>`.
+
+New learning Concept:
+Adding links within the project. `<a href=""></a>`. This function helps me direct to where I want to get a specific space in 
+the website.
+
+Difficulty Level: 2/10
 ```
 
 ### [Blog](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index3.html)
@@ -41,9 +64,9 @@ Code is only presented in this project.
 ...
 ```
 
-### [Live Creative Codin Challenge - group] ()
+### [Live Creative Codin Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
 ``` markdown
-..
+...
 ```
 
 
