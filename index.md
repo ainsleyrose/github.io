@@ -14,6 +14,9 @@ Here are my completed projects from Khan Academy - these are projects that helpe
 5. What's For Dinner
 6. Algorithm Exploration - Pyraminx Record
 7. Live Creative Codin Challenge - group
+8. Git'n Going
+9. HackED
+10. 
 
 ### [Travel Webpage](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index.html)
 
@@ -109,16 +112,22 @@ Difficulty Level: 8/10
 ### [Algorithm Exploration - Pyraminx Record](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/tree/Algorithms-Exploration-HTML-projs#readme)
 
 ```markdown
-...
+During the modules presented before this, we were given a pyraminx to figure out how to solve it in the most efficient way. 
+For this assignment, the teacher gave us a mixed up pyraminx and sat us down with a couple students and timed how fast we can 
+solve the pyraminx and collected our medians between 5 sets of solving the pyraminx.
 
-Difficulty Level: none
+Difficulty Level: 1.5/10
 ```
 
 ### [Live Creative Codin Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
 ``` markdown
-...
+This is one of my favourite group work that I have done with other people. Although only me and Hadley did it, I think this 
+was a success. 
 
-Difficulty Level:
+I have learned several new concepts in this project, it boosted my knowledge by someone explaining the code and trying to 
+refactor it to make it more interesting. Teaching the code to the class also made me more understand the base code even more.
+
+Difficulty Level: 8/10
 ```
 
 [**REFACTORED CODE** - click me]()
@@ -127,12 +136,39 @@ Difficulty Level:
 <br>
 
 
+### [HackED](https://docs.google.com/presentation/d/1TLIfjdqSlH51wjZor2eyubJb2vBfvrUQMy60olOFt2s/edit#slide=id.gb77f0cf075_0_0)
+``` markdown
+Another group project. We created a game representing on how to make the world a better place. It's fun talking to groupmates on how to create and make it look pretty. Communicating with peers can be really important when it comes to computer science. It's the only way to gather information and make it better. 
 
+I mostly only contributed my thoughts and just followed through the code and tried to refactor it but the team decided to not add my refactored code into the final product because it wasn't that good lol. (I tried!)
 
+Overall, I think teamwork had the most impact on me on this assignment.
 
+Diffculty level: 10/10
+```
 
+[**GAME** - click me]()
 
+<br>
 
+### Git'n Going
+
+```markdown
+In this activity, I was given tutorials on how to use GitHub. It kick-started me to use Github. To express my learning 
+through this activity, is this website!
+
+I learned how to code on Github and how to work through issues with my group and share information. It gets a little tricky 
+sometimes but it's a learning process!
+
+Difficulty level: 9/10
+```
+
+<br>
+
+### Microbit
+``` markdown
+Did not contributed in this project and teacher gave me the permission to be passed in this assignment.
+```
 
 ```markdown
 Syntax highlighted code block
