@@ -1,8 +1,6 @@
 ## ICS3U 2022 Portfolio Website | Ainsley Rose Barut
 You will see 10 accomplished modules throughout the semester of Grade 11 Computer Science 2022!
 
-![Image](src)
-
 ### My Github Coding bases: https://github.com/ainsleyrose/github.io
 
 Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
