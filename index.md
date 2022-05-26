@@ -1,5 +1,7 @@
 ## ICS3U 2022 Portfolio Website | Ainsley Rose Barut
-You will see what I have accomplished throughout the semester of Grade 11 Computer Science 2022!
+You will see 10 accomplished modules throughout the semester of Grade 11 Computer Science 2022!
+
+![Image](src)
 
 ### My Github Coding bases: https://github.com/ainsleyrose/github.io
 
@@ -16,13 +18,13 @@ Here are my completed projects from Khan Academy - these are projects that helpe
 7. Live Creative Codin Challenge - group
 8. Git'n Going
 9. HackED
-10. 
+10. _Microbit_
 
 ### [Travel Webpage](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index.html)
 
 ```markdown
-This was one of the project that got me started in my coding challenges. 
-I learned a lot of new properties in this introduction project that I can apply as I go on my new provided challenges. 
+This is one of the projects that got me started in my coding challenges. I learned a lot of new properties in this 
+introduction project that I can apply as I go on my new provided challenges. 
 
 Aspects that made a big impact in my learning process are adding different text sizes, adding the `<head></head>` function 
 to add colours and fonts, and `<body></body>` function to add texts and `<src="">` for adding images from available sources 
@@ -130,24 +132,27 @@ refactor it to make it more interesting. Teaching the code to the class also mad
 Difficulty Level: 8/10
 ```
 
-[**REFACTORED CODE** - click me]()
-[**RECREATED CODE GROUP** - click me]()
+[**SELF-REFACTORED CODE** - click me](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/RefactoredWaterRipples)
+[**RECREATED CODE GROUP** - click me](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/changes.coding-challenge)
 
 <br>
 
 
 ### [HackED](https://docs.google.com/presentation/d/1TLIfjdqSlH51wjZor2eyubJb2vBfvrUQMy60olOFt2s/edit#slide=id.gb77f0cf075_0_0)
 ``` markdown
-Another group project. We created a game representing on how to make the world a better place. It's fun talking to groupmates on how to create and make it look pretty. Communicating with peers can be really important when it comes to computer science. It's the only way to gather information and make it better. 
+Another group project. We created a game representing on how to make the world a better place. It's fun talking to 
+groupmates on how to create and make it look pretty. Communicating with peers can be really important when it comes to 
+computer science. It's the only way to gather information and make it better. 
 
-I mostly only contributed my thoughts and just followed through the code and tried to refactor it but the team decided to not add my refactored code into the final product because it wasn't that good lol. (I tried!)
+I mostly only contributed my thoughts and just followed through the code and tried to refactor it but the team decided to not 
+add my refactored code into the final product because it wasn't that good lol. (I tried!)
 
 Overall, I think teamwork had the most impact on me on this assignment.
 
 Diffculty level: 10/10
 ```
 
-[**GAME** - click me]()
+[**GAME REPO + CODE** - click me](https://github.com/hwarn1/Hackathon#readme)
 
 <br>
 
@@ -170,30 +175,6 @@ Difficulty level: 9/10
 Did not contributed in this project and teacher gave me the permission to be passed in this assignment.
 ```
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ainsleyrose/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+done.
