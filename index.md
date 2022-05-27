@@ -5,7 +5,7 @@ You will see 10 accomplished modules throughout the semester of Grade 11 Compute
 
 Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
 
-`_(click the titles in order to preview the project in a different website)_`
+#### **(click the titles in order to preview the project in a different website)**
 
 1. Travel Webpage
 2. Recipe Book
@@ -48,7 +48,7 @@ Sources at the end of the page was also added for more information provided to a
 Difficulty Level: 3/10
 ```
 
-[**RECIPE BOOK BASE CODE** - click me](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/index.html)
+[**RECIPE BOOK BASE CODE** - click me](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/commit/a4263e1ed1922fcb7e28d39bc15e4998f33471fb)
 
 <br>
 
