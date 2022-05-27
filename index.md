@@ -41,9 +41,11 @@ Difficulty Level: 1/10
 Same coding properties/functions were used from the last project; such as `<head></head>`, `<style></style>`, `<body></body>`.
 
 New learning Concept/s:
-Adding links within the project. `<a href=""></a>`. This function helps me direct to where I want to get a specific space in 
-the website.
-Sources at the end of the page was also added for more information provided to another link.
+Adding links within the project. `<a href=""></a>` to `<id="">`. This function helps the producers direct 
+automatically to where they want to specificly land on within the website through the table of contents 
+provided at the top of every webpage.
+
+Sources functions were also used at the end of the page to provide more information bringing them to another link.
 
 Difficulty Level: 3/10
 ```
@@ -119,7 +121,7 @@ Difficulty Level: 1.5/10
 
 <br>
 
-### [Live Creative Codin Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
+### [Live Creative Coding Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
 ``` markdown
 This is one of my favourite group work that I have done with other people. Although only me and Hadley did it, I think this 
 was a success. 
