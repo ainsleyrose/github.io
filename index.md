@@ -119,6 +119,8 @@ solve the pyraminx and collected our medians between 5 sets of solving the pyram
 Difficulty Level: 1.5/10
 ```
 
+<br>
+
 ### [Live Creative Codin Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
 ``` markdown
 This is one of my favourite group work that I have done with other people. Although only me and Hadley did it, I think this 
