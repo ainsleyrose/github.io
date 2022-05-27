@@ -90,7 +90,7 @@ Difficulty Level: 6/10
 
 <br>
 
-### [What's For Dinner?](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index5.javascript)
+### [What's For Dinner?](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/index5.javascript)
 
 ```markdown
 Base code is only presented in this project.
@@ -104,8 +104,6 @@ Creating different shapes using `fill()`, `rect()`, and `ellipse`.
 
 Difficulty Level: 8/10
 ```
-
-[**WHAT'S FOR DINNER BASE CODE** - click me](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/index5.javascript)
 
 <br>
 
