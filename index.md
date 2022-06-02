@@ -123,7 +123,7 @@ I mostly only contributed my thoughts and just followed through the code and tri
 
 Overall, I think teamwork had the most impact on me on this assignment.
 
-![img](https://media4.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47hwrnkmuh4g2ftj013rshaxgek06w1fjarh07bbuo&rid=giphy.gif&ct=g)
+![img](https://media3.giphy.com/media/ieJhqWk0LcNqbE2dTj/giphy.gif?cid=ecf05e47u8xbv7vuqdjb0k5lj3515x5fj5gklhwe58jrjtac&rid=giphy.gif&ct=g)
 
 Diffculty level: 10/10
 
