@@ -5,6 +5,8 @@ You will see 10 accomplished modules throughout the semester of Grade 11 Compute
 
 Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
 
+![img](https://media3.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif?cid=ecf05e470a640f9059d6ed709cbf77d42b6b94d355de5efa&rid=giphy.gif&ct=g)
+
 #### **(click the titles in order to preview the project in a different website)**
 
 1. Travel Webpage
@@ -22,6 +24,8 @@ Here are my completed projects from Khan Academy - these are projects that helpe
 
 This is one of the projects that got me started in my coding challenges. I learned a lot of new properties in this 
 introduction project that I can apply as I go on my new provided challenges. 
+
+![img](https://images.unsplash.com/photo-1461727885569-b2ddec0c4328?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw2NzA2NTd8fGVufDB8fHx8&w=1000&q=80)
 
 Aspects that made a big impact in my learning process are adding different text sizes, adding the ```<head></head>```  function to add colours and fonts, and ```<body></body>``` function to add texts and ```<src="">``` for adding images from available sources to also changing their sizes.
 
@@ -137,6 +141,8 @@ Difficulty level: 9/10
 
 ### Microbit
 
-Did not contributed in this project and teacher gave me the permission to be passed in this assignment.
+Did not contributed in this project and teacher gave me the permission to be passed in this assignment.\
+
+![img](https://media4.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47hwrnkmuh4g2ftj013rshaxgek06w1fjarh07bbuo&rid=giphy.gif&ct=g)
 
 <br>
