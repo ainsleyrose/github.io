@@ -3,7 +3,7 @@ You will see 10 accomplished modules throughout the semester of Grade 11 Compute
 
 ### My Github Coding bases: https://github.com/ainsleyrose/github.io
 
-Here are my completed projects from Khan Academy - these are projects that helped me get started in my coding journey:
+Here are my completed projects from Khan Academy + in my CS class projects - these are projects that helped me get started in my coding journey:
 
 ![img](https://media3.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif?cid=ecf05e470a640f9059d6ed709cbf77d42b6b94d355de5efa&rid=giphy.gif&ct=g)
 
@@ -37,6 +37,8 @@ Difficulty Level: 1/10
 
 ### [Recipe Book](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index2.html)
 
+![img](https://c.tenor.com/WUl1z4VCeQMAAAAC/cooking-kid.gif)
+
 Same coding properties/functions were used from the last project; such as ```<head></head>```, ```<style></style>```, ```<body></body>```.
 
 New learning Concept/s:
@@ -53,6 +55,8 @@ Difficulty Level: 3/10
 
 ### [Blog](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index3.html)
 
+![img](https://c.tenor.com/Pgf1Ru47dHEAAAAC/mr-bean.gif)
+
 Same coding properties/functions were used from the last project; such as ```<head></head>```, ```<style></style>```, ```<body></body>```.
 
 This project was almost identical from the previous project only in different design and more writing was required. "Getting this done" mentality was used for this project for completion.
@@ -64,6 +68,8 @@ Difficulty Level: 2/10
 <br>
 
 ### [Event Invite](https://rawcdn.githack.com/ainsleyrose/HTML-CSS-JS-Projects/a8e4b09ce2837d8449c4bb2f327bf3f6a9c37197/index4.html)
+
+![img](https://c.tenor.com/UisZAEvkXKEAAAAC/anchorman-steve-carell.gif)
 
 Same coding properties/functions were used from the last project; such as ```<head></head>```, ```<style></style>```, ```<body></body>```.
 
@@ -83,6 +89,8 @@ Difficulty Level: 6/10
 
 ### [What's For Dinner?](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/blob/main/index5.javascript)
 
+![img](https://c.tenor.com/liCayjQo6YsAAAAC/lunch-licking-lips.gif)
+
 Base code is only presented in this project.
 
 Starting this project was a little challenge for me. "Getting this done" mentality was again used in this particular project in order for me to move on and learn for upcoming projects. Artistic thinking and design was required for this project and unfortunately this is not suited for me. I made this project the opportunity to learn how each coding concept works. 
@@ -96,6 +104,8 @@ Difficulty Level: 8/10
 
 ### [Algorithm Exploration - Pyraminx Record](https://github.com/ainsleyrose/HTML-CSS-JS-Projects/tree/Algorithms-Exploration-HTML-projs#readme)
 
+![img](https://c.tenor.com/r4XdNJXJaiYAAAAM/axolote.gif)
+
 During the modules presented before this, we were given a pyraminx to figure out how to solve it in the most efficient way. For this assignment, the teacher gave us a mixed up pyraminx and sat us down with a couple students and timed how fast we can solve the pyraminx and collected our medians between 5 sets of solving the pyraminx.
 
 Difficulty Level: 1.5/10
@@ -103,6 +113,9 @@ Difficulty Level: 1.5/10
 <br>
 
 ### [Live Creative Coding Challenge - group](https://editor.p5js.org/hwarn1/sketches/WbSDbRg0U)
+
+![img](https://c.tenor.com/v4aEu8aaNTkAAAAM/partners-natalie-williams.gif)
+
 This is one of my favourite group work that I have done with other people. Although only me and Hadley did it, I think this was a success. 
 
 I have learned several new concepts in this project, it boosted my knowledge by someone explaining the code and trying to refactor it to make it more interesting. Teaching the code to the class also made me more understand the base code even more.
@@ -133,6 +146,8 @@ Diffculty level: 10/10
 
 ### Git'n Going
 
+![img](https://c.tenor.com/A15H8E1VUh8AAAAM/github-cat.gif)
+
 In this activity, I was given tutorials on how to use GitHub. It kick-started me to use Github. To express my learning through this activity, is this website!
 
 I learned how to code on Github and how to work through issues with my group and share information. It gets a little tricky sometimes but it's a learning process!
@@ -143,8 +158,18 @@ Difficulty level: 9/10
 
 ### Microbit
 
-Did not contributed in this project and teacher gave me the permission to be passed in this assignment.\
+Did not contributed in this project and teacher gave me the permission to be passed in this assignment.
 
 ![img](https://media4.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47hwrnkmuh4g2ftj013rshaxgek06w1fjarh07bbuo&rid=giphy.gif&ct=g)
+
+### ~ Overall comments ~
+
+I have learned several concepts introducing me to HTML/CSS for web design and Javascript for inside concepts. Starting this course, I intro'ed my learning in Khan Academy and applied these learning to help my peers in group projects to make our assignment even more creative for us to present. 
+
+In my opinion, my portfolio isn't the most desired as I haven't really been doing all the completed assignments assigned in Khan Academy to complete the knowledge to start certain addignments. Although, I tried my best. I created little projects during learning, converted them into real accessible websites for my peers to see from my portfolio, learned how to work through GitHub, publishing a website, coding it, designing it, and finally submit the final product ... all by myself. All through my ICS3U class, I haven't asked for any help from my teacher and was basically learning and searching for answers in the internet. Sometimes I would also ask my peers for their help and their opinions. 
+
+But, I am proud. I never thought I would be able to learn how to publish a website. My next steps would be, learning how to be better and apply these learning for future purposes. Especially web design and it's insides works.
+
+_ps. Ainsley Rose Barut_
 
 <br>
