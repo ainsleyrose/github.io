@@ -156,11 +156,19 @@ Difficulty level: 9/10
 
 <br>
 
-### Microbit
+### AYJ: Game Jam
 
-Did not contributed in this project and teacher gave me the permission to be passed in this assignment.
+![img](https://media0.giphy.com/media/3oFzmrqh43AvYwn9Cw/giphy.gif?cid=ecf05e47cpjrebxv341k2o7we6q0zy8mh9hchrfu8jke0xlt&rid=giphy.gif&ct=g)
 
-![img](https://media4.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47hwrnkmuh4g2ftj013rshaxgek06w1fjarh07bbuo&rid=giphy.gif&ct=g)
+We were assigned finish the lessons on Khan Academy with game development in order to create a new game. I started to create a proposal and thought about making a "guessing a number game". I learned a lot in this project. I took information from the lessons provided in Khan Academy and also from the internet(Google). I had trouble in completing the "button" action. There was a bug somewhere so it took me approximately 5 hours to complete this project. Apparently it was just a typo completing the function. 
+
+I would say that this is the hardest project I had to do because I completed it on my own but also the most fun in my opinion!
+
+Dificulty level: 10/10
+
+[Click me: view the game here!](https://editor.p5js.org/ainsleyrose/sketches/7yn1trViS)
+
+<br>
 
 ### ~ Overall comments ~
 
