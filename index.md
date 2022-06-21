@@ -150,7 +150,7 @@ Diffculty level: 10/10
 
 In this activity, I was given tutorials on how to use GitHub. It kick-started me to use Github. To express my learning through this activity, is this website!
 
-I learned how to code on Github and how to work through issues with my group and share information. It gets a little tricky sometimes but it's a learning process!
+I learned how to code on Github and how to work through issues with my group and share information. It gets a little tricky sometimes but it's a learning process! Next learning steps would be trying to make websites more professional (maybe adding the visual presentation of each project in the webpage instead of bringing the viewer into a different website, adding button functions to bring them into the different parts of the page).
 
 Difficulty level: 9/10
 
@@ -160,13 +160,14 @@ Difficulty level: 9/10
 
 ![img](https://media0.giphy.com/media/3oFzmrqh43AvYwn9Cw/giphy.gif?cid=ecf05e47cpjrebxv341k2o7we6q0zy8mh9hchrfu8jke0xlt&rid=giphy.gif&ct=g)
 
-We were assigned finish the lessons on Khan Academy with game development in order to create a new game. I started to create a proposal and thought about making a "guessing a number game". I learned a lot in this project. I took information from the lessons provided in Khan Academy and also from the internet(Google). I had trouble in completing the "button" action. There was a bug somewhere so it took me approximately 5 hours to complete this project. Apparently it was just a typo completing the function. 
+We were assigned finish the lessons on Khan Academy with game development (Advanced JS: Games & Visualizations) in order to create a new simple game just to show our learning stages. I started to create a proposal and thought about making a **"guessing a number game"**. I learned a lot in this project. I took information from the lessons provided in Khan Academy and also from the internet(Google). Some bugs were present. I had trouble in completing the "button" action. There was a bug somewhere so it took me approximately 5 hours to complete this project. Apparently it was just a typo completing the function.
 
-I would say that this is the hardest project I had to do because I completed it on my own but also the most fun in my opinion!
+I would say that this is the hardest project I had to do because I completed it on my own but also the most fun in my opinion! Being able to complete a simple game with basic concepts is one step forward. For my next steps, I would try to expand my learning on how to use these concept for future projects (JS, HTML, CSS).
 
 Dificulty level: 10/10
 
 [Click me: view the game here!](https://editor.p5js.org/ainsleyrose/sketches/7yn1trViS)
+[Github Repo + Base Code](https://github.com/ainsleyrose/AIJ-GameJam.git)
 
 <br>
 
